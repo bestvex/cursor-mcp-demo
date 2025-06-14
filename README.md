@@ -41,6 +41,10 @@ To set up GitHub MCP in Cursor:
 - Creating and reviewing pull requests
 - Searching GitHub code and repositories
 
+## Landing Page
+
+Visit our beautiful [landing page](index.html) to check out the coloring book on Amazon.de.
+
 ---
 
 *This repository was created using Cursor's GitHub MCP integration.*
